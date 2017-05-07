@@ -111,7 +111,7 @@
             <div class="container2">
                <div class="ih-item square effect7">
                   <a href="wepapp">
-                     <div class="img"><img src="{{ asset('imgs/seniordesign.png') }}" alt="img"></div>
+                     <div class="img"><img src="{{ asset('imgs/seniordesign.jpg') }}" alt="img"></div>
                      <div class="info">
                         <h3>Web application</h3>
                         <p>Build an internship management wep application</p>
