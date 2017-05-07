@@ -80,8 +80,7 @@
                         <div class="headshot"></div> 
                         <h1><strong>Hello.</strong><br/></h1>
                         <p style="font-size:35px"><strong>My name is Chi Ma.</strong></p>
-                        <p style="font-size:30px"><strong>Love <a class="programming after" href="#">programming<span><img src="{{ asset('imgs/programming.gif') }}"></span></a>
-                           , also do some <a class="swimming after" href="#">sports<span><img src="{{ asset('imgs/swimming.gif') }}"></span></a>.</strong>
+                        <p style="font-size:30px"><strong>Love <a class="programming after" href="#">programming<span><img src="{{ asset('imgs/programming.gif') }}"></span></a>, also do some <a class="swimming after" href="#">sports<span><img src="{{ asset('imgs/swimming.gif') }}"></span></a>.</strong>
                         </p>
                      </article>
                   </div>
