@@ -21,7 +21,7 @@
                      <img class="img4" src="{{ asset('imgs/database.png') }}" alt="img"><br/><br/>
                      We used PHP as back-end development language to do the controllers, routes and migrations. Used HTML and basic css compoent from UNL to make the UI prettier and profroessional, we also used jQuery and aJax to make application more functional.<br/> 
                      <br/><br/>
-                     <img class="img1" src="{{ asset('imgs/seniordesign.png') }}" alt="img"><br/><br/>
+                     <img class="img1" src="{{ asset('imgs/seniordesign.jpg') }}" alt="img"><br/><br/>
                      We spent a whole year on the project, honestly I think we did build a great job there.<br/><br/>
                   </p>
                </article>
