@@ -65,6 +65,7 @@
 
         }
       </style>
+      <title>Chi Ma</title>
    </head>
    <body>
       <ul id="menu">
