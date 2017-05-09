@@ -44,7 +44,7 @@
       </script>
       <style>
          #section0,#section1,#section2{
-         background-image: url(imgs/standard_background2.jpg);
+         background-image: url(imgs/redbackground2.jpg);
          }
          .headshot {
           width: 250px;
